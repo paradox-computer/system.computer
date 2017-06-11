@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# deny all POST requests
+<IfModule mod_rewrite.c>
+	RewriteCond %{REQUEST_METHOD} POST
+	RewriteRule .* - [F,L]
+</IfModule>
