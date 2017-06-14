@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/blacknova/!svn/ver/2208/branches/original
+END
+sched_defenses.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/blacknova/!svn/ver/2099/branches/original/sched_defenses.php
+END
+ship.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/ship.php
+END
+perfmon.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/perfmon.php
+END
+mailto2.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/mailto2.php
+END
+server_notice.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/1588/branches/original/server_notice.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/blacknova/!svn/ver/2192/branches/original/index.php
+END
+check_fighters.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/blacknova/!svn/ver/2192/branches/original/check_fighters.php
+END
+check_mines.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/blacknova/!svn/ver/2192/branches/original/check_mines.php
+END
+setup_info.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/blacknova/!svn/ver/2192/branches/original/setup_info.php
+END
+team_planets.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/blacknova/!svn/ver/2192/branches/original/team_planets.php
+END
+scheduler.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/blacknova/!svn/ver/2192/branches/original/scheduler.php
+END
+planet_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/2207/branches/original/planet_report.php
+END
+warpedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/warpedit.php
+END
+sched_tow.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/blacknova/!svn/ver/2101/branches/original/sched_tow.php
+END
+fader.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/blacknova/!svn/ver/2194/branches/original/fader.php
+END
+lrscan.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/lrscan.php
+END
+planet.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2208/branches/original/planet.php
+END
+create_universe.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/blacknova/!svn/ver/2192/branches/original/create_universe.php
+END
+mailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/mailto.php
+END
+sector_fighters.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/blacknova/!svn/ver/2192/branches/original/sector_fighters.php
+END
+global_defines.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/blacknova/!svn/ver/1953/branches/original/global_defines.php
+END
+genesis.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/genesis.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/footer.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/settings.php
+END
+navcomp.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/navcomp.php
+END
+dump.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/dump.php
+END
+sched_apocalypse.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/blacknova/!svn/ver/2099/branches/original/sched_apocalypse.php
+END
+move.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/move.php
+END
+port2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/blacknova/!svn/ver/2192/branches/original/port2.php
+END
+self_destruct.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/2192/branches/original/self_destruct.php
+END
+sched_igb.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/blacknova/!svn/ver/1885/branches/original/sched_igb.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/logout.php
+END
+mines.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/blacknova/!svn/ver/2206/branches/original/mines.php
+END
+news.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2203/branches/original/news.php
+END
+sched_ports.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/blacknova/!svn/ver/1939/branches/original/sched_ports.php
+END
+traderoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/blacknova/!svn/ver/2192/branches/original/traderoute.php
+END
+readmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/readmail.php
+END
+bnt_ls_client.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/2141/branches/original/bnt_ls_client.php
+END
+zoneedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/zoneedit.php
+END
+sched_turns.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/blacknova/!svn/ver/1984/branches/original/sched_turns.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/blacknova/!svn/ver/2192/branches/original/log.php
+END
+sched_news.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/blacknova/!svn/ver/2202/branches/original/sched_news.php
+END
+feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/feedback.php
+END
+scan.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/scan.php
+END
+sched_funcs.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/blacknova/!svn/ver/2099/branches/original/sched_funcs.php
+END
+galaxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/galaxy.php
+END
+info_publiclist.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/blacknova/!svn/ver/2141/branches/original/info_publiclist.php
+END
+global_includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/blacknova/!svn/ver/2140/branches/original/global_includes.php
+END
+beacon.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/beacon.php
+END
+ranking.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/ranking.php
+END
+global_cleanups.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/blacknova/!svn/ver/2192/branches/original/global_cleanups.php
+END
+options.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/options.php
+END
+sched_degrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/2099/branches/original/sched_degrade.php
+END
+warpedit2.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/blacknova/!svn/ver/2192/branches/original/warpedit2.php
+END
+warpedit3.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/blacknova/!svn/ver/2192/branches/original/warpedit3.php
+END
+planet2.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/planet2.php
+END
+planet3.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/planet3.php
+END
+attack.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2197/branches/original/attack.php
+END
+sched_thegovernor.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/blacknova/!svn/ver/1939/branches/original/sched_thegovernor.php
+END
+rsmove.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/rsmove.php
+END
+sched_planets.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/1939/branches/original/sched_planets.php
+END
+xenobe_control.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/blacknova/!svn/ver/2192/branches/original/xenobe_control.php
+END
+bounty.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2200/branches/original/bounty.php
+END
+emerwarp.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/emerwarp.php
+END
+port.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/port.php
+END
+newplayerguide.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/blacknova/!svn/ver/2209/branches/original/newplayerguide.php
+END
+sched_xenobe.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/blacknova/!svn/ver/2192/branches/original/sched_xenobe.php
+END
+zoneinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/blacknova/!svn/ver/2192/branches/original/zoneinfo.php
+END
+device.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/device.php
+END
+igb.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/blacknova/!svn/ver/2205/branches/original/igb.php
+END
+preset.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/preset.php
+END
+corp.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/corp.php
+END
+combat.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2204/branches/original/combat.php
+END
+faq.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/blacknova/!svn/ver/2209/branches/original/faq.php
+END
+teams.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/blacknova/!svn/ver/2196/branches/original/teams.php
+END
+report.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/report.php
+END
+new2.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/new2.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2192/branches/original/mail.php
+END
+modify_defences.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/blacknova/!svn/ver/2192/branches/original/modify_defences.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2195/branches/original/main.php
+END
+defence_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/blacknova/!svn/ver/2192/branches/original/defence_report.php
+END
+planet_report_ce.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/blacknova/!svn/ver/2192/branches/original/planet_report_ce.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/blacknova/!svn/ver/2192/branches/original/admin.php
+END
+help.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/blacknova/!svn/ver/2141/branches/original/help.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/header.php
+END
+new.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/blacknova/!svn/ver/2192/branches/original/new.php
+END
+option2.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/blacknova/!svn/ver/2192/branches/original/option2.php
+END
+login2.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/blacknova/!svn/ver/2192/branches/original/login2.php
+END
+sched_ranking.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/blacknova/!svn/ver/1939/branches/original/sched_ranking.php
+END
+setup_info_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/blacknova/!svn/ver/2067/branches/original/setup_info_class.php
+END
