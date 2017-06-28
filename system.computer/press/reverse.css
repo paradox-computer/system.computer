@@ -1,0 +1,17 @@
+ 
+
+
+
+/*make font scale naturally/ reverse (get larger as 100vh or 100% decreases in resolution ! mobile first/readable font size in one line )
+*/p > *, p {
+	 font-size: -2vmin;
+
+
+}
+
+
+
+
+
+
+/* MAKE FUN/smart CSS HACKS from: https://www.w3schools.com/cssref/css_selectors.asp*/
